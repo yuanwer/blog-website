@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-675736d1","path":"/web-interaction/00-guide/","title":"web 交互","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"web-interaction/00-guide/README.md"}');export{e as data};

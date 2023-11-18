@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-34d5ec28","path":"/read/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6/","title":"书摘与想法 - 黑客与画家","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"read/黑客与画家/README.md"}');export{e as data};
